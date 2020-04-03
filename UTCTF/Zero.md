@@ -1,5 +1,6 @@
 ## Zero
 For the Zero challenge we were given a text file called **zero.txt**
+![zero_chal](https://github.com/AnthemC/writeups/blob/master/img/zero_chal.png)
 
 Once you download the file you will notice that it all just appears as lorem ipsum filler text. 
 ![lorem ipsum](https://github.com/AnthemC/writeups/blob/master/img/zero_file.png)
