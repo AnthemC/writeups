@@ -1,4 +1,5 @@
-## This challenge gives you a wav file and tells you that it is a **SSTV** transmission.
+## 1 Frame Per Minute
+This challenge gives you a wav file and tells you that it is a **SSTV** transmission.
 
 ![challenge prompt](https://github.com/AnthemC/writeups/blob/master/img/1frame_chal.png)
 
@@ -9,4 +10,4 @@ I found and downloaded a tool called RX-SSTV after searching for SSTV decoders. 
 ![Image of RX-SSTV with flag](https://github.com/AnthemC/writeups/blob/master/img/1frame.png)
 
 The flag is:
-utctf{6bdfeac1e2baa12d6ac5384cdfd166b0}
+**utctf{6bdfeac1e2baa12d6ac5384cdfd166b0}**
